@@ -1,0 +1,166 @@
+#nerd1 {
+  position: absolute;
+  z-index: 9;
+  background-color: gray;
+  border: 1px solid #d3d3d3;
+  text-align: center;
+  top: 100px;
+  left: 10px;
+  border-radius: 20px;
+}
+
+#nerd1header {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: red;
+  color: #fff;
+  border-radius: 20px;
+}
+
+#nerd2 {
+  position: absolute;
+  z-index: 9;
+  background-color: gray;
+  border: 1px solid #d3d3d3;
+  text-align: center;
+  top: 225px;
+  left: 10px;
+  border-radius: 20px;
+}
+
+#nerd2header {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: red;
+  color: #fff;
+  border-radius: 20px;
+}
+
+#nerd3 {
+  position: absolute;
+  z-index: 9;
+  background-color: gray;
+  border: 1px solid #d3d3d3;
+  text-align: center;
+  top: 350px;
+  left: 10px;
+  border-radius: 20px;
+}
+
+#nerd3header {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: red;
+  color: #fff;
+  border-radius: 20px;
+}
+
+#nerd4 {
+  position: absolute;
+  z-index: 9;
+  background-color: gray;
+  border: 1px solid #d3d3d3;
+  text-align: center;
+  top: 475px;
+  left: 10px;
+  border-radius: 20px;
+}
+
+#nerd4header {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: red;
+  color: #fff;
+  border-radius: 20px;
+}
+
+#nerd5 {
+  position: absolute;
+  z-index: 9;
+  background-color: gray;
+  border: 1px solid #d3d3d3;
+  text-align: center;
+  top: 600px;
+  left: 10px;
+  border-radius: 20px;
+}
+
+#nerd5header {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: red;
+  color: #fff;
+  border-radius: 20px;
+}
+
+#nerd6 {
+  position: absolute;
+  z-index: 9;
+  background-color: gray;
+  border: 1px solid #d3d3d3;
+  text-align: center;
+  top: 725px;
+  left: 10px;
+  border-radius: 20px;
+}
+
+#nerd6header {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: red;
+  color: #fff;
+  border-radius: 20px;
+}
+
+#nerd7 {
+  position: absolute;
+  z-index: 9;
+  background-color: gray;
+  border: 1px solid #d3d3d3;
+  text-align: center;
+  top: 850px;
+  left: 10px;
+  border-radius: 20px;
+}
+
+#nerd7header {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: red;
+  color: #fff;
+  border-radius: 20px;
+}
+
+#nerd8 {
+  position: absolute;
+  z-index: 9;
+  background-color: gray;
+  border: 1px solid #d3d3d3;
+  text-align: center;
+  top: 975px;
+  left: 10px;
+  border-radius: 20px;
+}
+
+#nerd8header {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: red;
+  color: #fff;
+  border-radius: 20px;
+}
+
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
